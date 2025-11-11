@@ -1,12 +1,4 @@
 # FCE-YOLOv8: Tea Leaf Disease Detection
-
-## 📌 Paper
-
-YOLOv8 Global Context for Tea Leaf Disease Detection\
-**Authors**: Phan Minh Tan, Nguyen Hoang Huy, Le Van Nghia, Nguyen Cong Tuan Anh, Hoang Minh Quan\
-**Affiliation**: Department of Artificial Intelligence, FPT University, Hanoi, Vietnam\
-📧 [phantanqh@gmail.com](mailto\:phantanqh@gmail.com), [hhuynguyen2803@gmail.com](mailto\:hhuynguyen2803@gmail.com), [nghiaub257@gmail.com](mailto\:nghiaub257@gmail.com), [tuananh141012@gmail.com](mailto\:tuananh141012@gmail.com), [hmquan167@gmail.com](mailto\:hmquan167@gmail.com)
-
 ## 🚀 Highlights
 
 - ✅ Baseline: YOLOv8-m achieves 98.25% mAP\@0.5.
